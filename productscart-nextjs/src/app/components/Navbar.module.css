@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    list-style: none;
+}
+.linkItem {
+         text-decoration: none;
+  color: inherit;
+  margin-inline: .5rem;
+}
