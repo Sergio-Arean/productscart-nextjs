@@ -1,2 +1,2 @@
-# productscart-nextjsgit config --global user.email
-Products Cart Project
+# Products Cart Project
+Next js 
