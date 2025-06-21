@@ -1,5 +1,4 @@
-import { Header } from "./components/Header";
-import { Presentation } from "./components/Presentation";
+import { Presentation } from "./components/cart/Presentation";
 
 
 export default function Home() {
