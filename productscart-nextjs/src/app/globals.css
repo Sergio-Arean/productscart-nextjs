@@ -8,6 +8,7 @@
   --color-accent-hover: #9b87f5;       /* Hover / precios / resaltados */
   --color-warning-accent: #ff6b35;     /* Botones eliminar / destacados */
   --color-footer-bg: #1a1f2c;           /* Fondo footer */
+  --main-padding-value:6rem;
 }
 
 * {

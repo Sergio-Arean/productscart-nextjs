@@ -11,7 +11,7 @@ export function Navbar({context, items} : NavbarProps){
             <ul className={styles.container}>
             {items.map((item)=>{
                 return (
-                    <li >
+                    <li key={item.title}>
                         <Link href={item.url} className={styles.linkItem}>{item.title}</Link>
                     </li>
                 )
